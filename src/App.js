@@ -58,7 +58,7 @@ function App() {
 			//Mostrar Spinner
 			guardarCargando(true)
 
-			//ocultar spinner y mostrar el 
+			//ocultar spinner y mostrar el resultado
 			setTimeout(() =>{
 			
 				//Cambiar el estado de cargando
